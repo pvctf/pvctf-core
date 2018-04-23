@@ -1,0 +1,10 @@
+.main-header {
+  font-size: 48px;
+  height: 3em;
+  width: fill;
+  background: linear-gradient(to right, #0066cc, #33ccff);
+  display: flex;
+  align-items: center;
+  font-family: "Noto Sans";
+  color: white;
+}

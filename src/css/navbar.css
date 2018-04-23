@@ -1,0 +1,18 @@
+.nav-link {
+  color: #989898 !important;
+  font-size: 20px;
+  font-family: "Source Sans Pro";
+  margin-left: 15px;
+  margin-right: 15px;
+  height: 100%;
+}
+.nav-link:hover {
+  color: #D3D3D3 !important;
+}
+.dropdown-toggle[aria-expanded="true"] {
+  background:#181818 !important;
+  color:#DCDCDC !important;
+}
+.navbar {
+  background-color: #282828;
+}
