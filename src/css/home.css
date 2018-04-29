@@ -1,0 +1,27 @@
+.home-wrapper {
+  font-family: "Source Sans Pro", sans-serif !important;
+}
+
+.pvctf-header-container {
+  background: linear-gradient(45deg, #557A95, #7395AE);
+  text-align: center;
+  color: white;
+  margin-bottom: 0em !important;
+}
+.jumbotron-text {
+  font-size: 70pt;
+  font-weight: 100;
+}
+.jumbotron-desc-1 {
+  font-size: 16pt;
+}
+.jumbotron-desc-2 {
+  font-size: 12pt;
+}
+.pvctf-desc-container {
+  background: linear-gradient(45deg, #D8D8D8, #E0E0E0);
+  text-align: center;
+}
+.pvctf-desc-header {
+  font-size: 30pt;
+}

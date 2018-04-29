@@ -4,13 +4,13 @@ import '../../css/about.css';
 export default class About extends Component {
   render() {
     return (
-      <div class="wrapper">
-        <div class="main-header">
-          <div class="col"></div>
-          <div class="col-8">
-            <span class="header-text">About</span>
+      <div className="wrapper">
+        <div className="main-header">
+          <div className="col"></div>
+          <div className="col-8">
+            <span className="header-text">About</span>
           </div>
-          <div class="col"></div>
+          <div className="col"></div>
         </div>
       </div>
     );

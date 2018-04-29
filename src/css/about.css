@@ -2,9 +2,10 @@
   font-size: 48px;
   height: 3em;
   width: fill;
-  background: linear-gradient(to right, #0066cc, #33ccff);
+  background: linear-gradient(45deg, #557A95, #7395AE);
   display: flex;
   align-items: center;
-  font-family: "Noto Sans";
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 200;
   color: white;
 }
