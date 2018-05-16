@@ -1,7 +1,13 @@
+a {
+  text-decoration: none;
+  color: #557A95 !important;
+}
 .home-wrapper {
   font-family: "Source Sans Pro", sans-serif !important;
 }
-
+.extraInfo {
+  font-size: 8pt;
+}
 .pvctf-header-container {
   background: linear-gradient(45deg, #557A95, #7395AE);
   text-align: center;
