@@ -16,8 +16,11 @@ input{
     text-align: center;
     border: 1px solid black;
 }
-h3{
+p{
     color: white !important;
+    font-family: "Source Sans Pro", sans-serif !important;
+    font-size: 50pt;
+    font-weight: 100;
 }
 .submitButton{
     background-color: #D8D8D8 !important;
