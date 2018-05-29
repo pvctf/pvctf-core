@@ -35,7 +35,7 @@ export default class Navbar extends Component {
                 <a className="nav-link" href="#"><i className="far fa-sitemap"></i> Team</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#"><i className="far fa-sign-in-alt"></i> Login</a>
+                <a className="nav-link" href="/login"><i className="far fa-sign-in-alt"></i> Login</a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="#"><i className="far fa-user-plus"></i> Register</a>

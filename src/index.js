@@ -4,7 +4,8 @@ import  { BrowserRouter, Router, Route } from 'react-router-dom'
 
 import Navbar from './js/components/navbar';
 import About from './js/components/about';
-import Home from './js/components/home'
+import Home from './js/components/home';
+import Login from './js/components/login';
 
 import registerServiceWorker from './registerServiceWorker';
 
@@ -15,6 +16,7 @@ ReactDOM.render(
         <Navbar/>
         <Route exact path="/" component={ Home }/>
         <Route path="/about" component={ About }/>
+          <Route path="/login" component={ Login }/>
       </div>
     </BrowserRouter>
   ), document.getElementById('root'));

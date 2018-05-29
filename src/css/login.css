@@ -1,0 +1,26 @@
+body{
+    background-color:#557A95 !important;
+}
+::placeholder{
+    color: black !important;
+}
+.loginForm{
+    text-align: center;
+}
+input{
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    width:300px;
+    height: 50px;
+    text-align: center;
+    border: 1px solid black;
+}
+h3{
+    color: white !important;
+}
+.submitButton{
+    background-color: #D8D8D8 !important;
+    color: black;
+    width: 100px !important;
+}
