@@ -16,7 +16,7 @@ input{
     text-align: center;
     border: 1px solid black;
 }
-p{
+.login_title{
     color: white !important;
     font-family: "Source Sans Pro", sans-serif !important;
     font-size: 50pt;
