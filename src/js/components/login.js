@@ -6,7 +6,7 @@ export default class Login extends Component{
             <body>
             <form class="loginForm" action="login-submit.html" method="post">
                 <br></br><br></br>
-                <p>Login</p>
+                <p class="login_title">Login</p>
                 <input class="usernameField" type="text" name="username" placeholder="Username" required></input><br></br>
                 <br></br>
                 <input class="passwordField" type="password" name="password" placeholder="Password" required></input><br></br>
