@@ -22,7 +22,6 @@ export default class Home extends Component {
         </div>
         <div className="jumbotron jumbotron-fluid ">
           <h2 className="display-4 desc-header">What will you do?</h2>
-          <h3 className="display-3 desc-header">Over the next 2 weeks, you will...</h3>
         </div>
       </div>
     );
