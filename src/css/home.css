@@ -2,6 +2,9 @@ a {
   text-decoration: none;
   color: #557A95 !important;
 }
+.container {
+  width: 40%;
+}
 .home-wrapper {
   font-family: "Source Sans Pro", sans-serif !important;
 }
@@ -24,10 +27,11 @@ a {
 .jumbotron-desc-2 {
   font-size: 12pt;
 }
-.pvctf-desc-container {
+.ctf-desc-container {
   background: linear-gradient(45deg, #D8D8D8, #E0E0E0);
-  text-align: center;
+  text-align: left;
+  margin-bottom: 0em !important;
 }
-.pvctf-desc-header {
-  font-size: 30pt;
+.desc-header {
+  text-align: center;
 }
