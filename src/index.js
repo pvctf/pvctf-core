@@ -16,8 +16,8 @@ ReactDOM.render(
         <Navbar/>
         <Route exact path="/" component={ Home }/>
         <Route path="/about" component={ About }/>
+        <Route path="/login" component={ Login }/>
         <Footer/>
-          <Route path="/login" component={ Login }/>
       </div>
     </BrowserRouter>
   ), document.getElementById('root'));
